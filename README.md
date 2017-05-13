@@ -1,6 +1,6 @@
 # MQTTClientSwift
 
-[![CI Status](http://img.shields.io/travis/LzhDK/MQTTClientSwift.svg?style=flat)](https://travis-ci.org/LzhDK/MQTTClientSwift)
+[![CI Status](http://img.shields.io/travis/dklinzh/MQTTClientSwift.svg?style=flat)](https://travis-ci.org/dklinzh/MQTTClientSwift)
 [![Version](https://img.shields.io/cocoapods/v/MQTTClientSwift.svg?style=flat)](http://cocoapods.org/pods/MQTTClientSwift)
 [![License](https://img.shields.io/cocoapods/l/MQTTClientSwift.svg?style=flat)](http://cocoapods.org/pods/MQTTClientSwift)
 [![Platform](https://img.shields.io/cocoapods/p/MQTTClientSwift.svg?style=flat)](http://cocoapods.org/pods/MQTTClientSwift)
@@ -22,7 +22,7 @@ pod "MQTTClientSwift"
 
 ## Author
 
-LzhDK, linzhdk@gmail.com
+Daniel, linzhdk@gmail.com
 
 ## License
 

@@ -1,0 +1,22 @@
+PODS:
+  - MQTTClientSwift (0.1.0)
+  - Nimble (5.1.1)
+  - Quick (1.0.0)
+
+DEPENDENCIES:
+  - MQTTClientSwift (from `../`)
+  - Nimble (~> 5.1.1)
+  - Quick (~> 1.0.0)
+
+EXTERNAL SOURCES:
+  MQTTClientSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MQTTClientSwift: 7ab46620ce78cfa45cfafe9f0d03bd1e15562e68
+  Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
+  Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
+
+PODFILE CHECKSUM: 33c8b804ffa820fc32df5b7b32bda37bd7593ea0
+
+COCOAPODS: 1.2.1
